@@ -1,0 +1,2 @@
+# mit-informatics-spr-26
+CODE BASE FOR MIT INFORMATICS EVENT
